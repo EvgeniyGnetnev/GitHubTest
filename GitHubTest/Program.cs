@@ -13,6 +13,7 @@ namespace GitHubTest
             Console.WriteLine("Теперь произошло слияние двух ветве1");
 
             Console.WriteLine("Надпись для GitHub");
+            Console.WriteLine("Надпись для GitHub из клона***");
         }
     }
 }
