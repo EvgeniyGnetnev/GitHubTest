@@ -11,6 +11,8 @@ namespace GitHubTest
 
             Console.WriteLine("Это уже ветвь2");
             Console.WriteLine("Теперь произошло слияние двух ветве1");
+
+            Console.WriteLine("Надпись для GitHub");
         }
     }
 }
