@@ -10,7 +10,7 @@ namespace GitHubTest
             Console.WriteLine("change 2");
 
             Console.WriteLine("Это уже ветвь2");
-            Console.WriteLine("Теперь произошло слияние двух ветве1");
+            Console.WriteLine("Теперь произошло слияние двух ветве    1");
         }
     }
 }
