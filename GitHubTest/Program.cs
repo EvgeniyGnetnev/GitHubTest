@@ -14,6 +14,8 @@ namespace GitHubTest
 
             Console.WriteLine("Надпись для GitHub");
             Console.WriteLine("Надпись для GitHub из клона***");
+
+            Console.WriteLine("Mohamad lox");
         }
     }
 }
