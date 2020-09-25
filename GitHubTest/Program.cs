@@ -18,6 +18,8 @@ namespace GitHubTest
             Console.WriteLine("Mohamad lox");
 
             Console.WriteLine("Это основная ветвь");
+
+            Console.WriteLine("Это ветвь2(3)");
         }
     }
 }
